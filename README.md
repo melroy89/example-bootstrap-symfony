@@ -1,6 +1,6 @@
 # Symfony Bootstrap example project
 
-A bootstrap example project for reference only.
+A Symfony bootstrap example project for reference only. It's using the Symfony Flex application setup.
 
 It doesn't contain any code apart from what Symfony / Symfony Flex / composer installs.
 
