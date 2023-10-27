@@ -2,7 +2,7 @@
 
 A Symfony bootstrap example project for reference only. It's using the Symfony Flex application setup.
 
-It doesn't contain any code apart from what Symfony / Symfony Flex / composer installs.
+It doesn't contain any code apart from what Symfony / Symfony Flex / composer installs (like doctrine, stimulus, webpack Encore, Symfony UX Chart.JS).
 
 ## Why?
 
